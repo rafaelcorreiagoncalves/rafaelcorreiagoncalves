@@ -9,7 +9,7 @@ My goal is to bridge technology and medicine, building tools that improve diagno
 - 📊 Interested in **signal processing** and **medical imaging research**  
 
 ## 🔗 Let's Connect:
-- 📫 **Email:** [rafaelcorreiagoncalves@gmail.com](mailto:rafaelcorreiagoncalves@gmail.com)  
+- ✉️ **Email:** [rafaelcorreiagoncalves@gmail.com](mailto:rafaelcorreiagoncalves@gmail.com)  
 - 🌐 **LinkedIn:** [Rafael C. Gonçalves](https://www.linkedin.com/in/rafaelcorreiagoncalves/)  
 
 ## 💻 Tech Stack:

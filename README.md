@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Rafael
+# Hi there, I'm Rafael 👋
 
 I'm a **Biomedical Engineering student** with a passion for **artificial intelligence, medical imaging, biosignals and data science applications in healthcare**.  
 My goal is to bridge technology and medicine, building tools that improve diagnosis, treatment and human health.

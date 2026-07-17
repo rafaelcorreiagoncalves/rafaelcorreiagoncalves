@@ -6,7 +6,7 @@ My goal is to bridge technology and medicine, building tools that improve diagno
 ## ⚙️ Currently:
 - 🎓 Studying **Biomedical Engineering** at @ NOVA School of Science and Technology  
 - 🤖 Exploring **AI in healthcare** (machine and deep learning)  
-- 📊 Interested in **signal processing** and **medical imaging research**  
+- 📊 Interested in **signal processing** and **3D printing**  
 
 ## 🔗 Let's Connect:
 - ✉️ **Email:** [rafaelcorreiagoncalves@gmail.com](mailto:rafaelcorreiagoncalves@gmail.com)  
@@ -16,11 +16,11 @@ My goal is to bridge technology and medicine, building tools that improve diagno
 
 - **Programming Languages**
   
-  [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) [![MATLAB](https://img.shields.io/badge/MATLAB-E16715?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html) [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+  [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) [![MATLAB](https://img.shields.io/badge/MATLAB-E16715?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html) [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.mysql.com/)
 
 - **Libraries**
   
-  [![Matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/) [![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) [![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![Seaborn](https://img.shields.io/badge/seaborn-4EABC2?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/) [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/) [![MNE](https://img.shields.io/badge/MNE_Python-5A2E8F?style=for-the-badge&logo=python&logoColor=white)](https://mne.tools/)
+  [![Matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/) [![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) [![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![Seaborn](https://img.shields.io/badge/seaborn-4EABC2?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/) [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
 
 - **IDEs**
   
